@@ -255,5 +255,5 @@ end %end of j
 end %end of i
 
 % catch
-%     save WorkSpaceBfrError.mat;
+%    save WorkSpaceBfrError.mat;
 % end % end of try
