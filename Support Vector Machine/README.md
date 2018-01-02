@@ -1,1 +1,0 @@
-Support vector machine classifier
